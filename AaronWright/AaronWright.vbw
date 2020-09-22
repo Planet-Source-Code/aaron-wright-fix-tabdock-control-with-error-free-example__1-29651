@@ -1,0 +1,9 @@
+frmDoc = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+mdiMain = 44, 44, 356, 380, Z, 22, 22, 334, 358, C
+frmTools = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmPExplorer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmHTMProps = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modMDIMain = 0, 0, 312, 336, C
+frmToolbar = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmDebug = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modIni = 22, 22, 334, 358, C
