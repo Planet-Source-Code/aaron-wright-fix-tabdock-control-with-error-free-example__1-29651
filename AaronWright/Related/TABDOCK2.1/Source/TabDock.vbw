@@ -1,0 +1,14 @@
+cSplitDDC = 0, 0, 0, 0, C
+modApi32 = 0, 0, 0, 0, C
+TDockForm = 0, 0, 0, 0, C
+TDockForms = 0, 0, 0, 0, C
+TEnums = 0, 0, 0, 0, C
+TTabDock = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+TTabDockHosts = 0, 0, 0, 0, C
+modBorder = 0, 0, 0, 0, C
+TTabDockHost = 0, 0, 0, 0, C
+ISubclass = 0, 0, 0, 0, C
+MSubclass = 0, 0, 0, 0, C
+GSubclass = 0, 0, 0, 0, C
+MTimer = 0, 0, 0, 0, C
+CTimer = 0, 0, 0, 0, C
